@@ -1,5 +1,5 @@
 # Amazing ARKit
-![Banner](Amazing-ARkit/banner.png)
+![Banner](banner.png)
 对AR增强现实蛮感兴趣，所以自学了一段时间，空闲时间整理了自己在学习ARkit的过程中学习的一些资料以及开发者做的有趣的AR视频，谢谢他们无私的分享。由于本人水平有限，欢迎大佬们补充和指正。
 # 目录
 - [教程文章](#教程文章)
@@ -49,14 +49,14 @@
 * [[MetalKit]Using ARKit with Metal使用ARKit与Metal](http://www.jianshu.com/p/853db805ddee)
 * [四元数和旋转，涉及到3D模型的动画](http://blog.csdn.net/candycat1992/article/details/41254799)
 
-####ARKit+Unity
+#### ARKit+Unity
 
 * [Unity ARKit的基本使用](http://www.jianshu.com/p/251b0893fa86)
 * [ARKit 与Unity桥接](http://www.jianshu.com/p/aae0dc754aa3)
 * [Unity ARKit Plugin 分析](http://www.jianshu.com/p/15eb1c27fe0b)
 * [AR场景中关于3D模型的触碰检测](https://www.cnblogs.com/shuizhuqing/p/7158016.html)
 
-####国外教程（都是基础教程）
+#### 国外教程（都是基础教程）
 
 * [ARKit introduction](https://www.whitesmith.co/blog/arkit-introduction/)
 * [Building an AR game with ARKit and Spritekit](https://blog.pusher.com/building-ar-game-arkit-spritekit/)
