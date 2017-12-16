@@ -4,8 +4,8 @@
 # 目录
 - [教程文章](#教程文章)
 - [开源代码](#开源代码)
-- [ARKit应用](#ARKit应用)
-- [AR小视频](#AR小视频)
+- [ARKit应用](#应用)
+- [AR小视频](#趣味视频)
 - [资源](#资源)
 
 - - -
@@ -56,7 +56,7 @@
 * [Unity ARKit Plugin 分析](http://www.jianshu.com/p/15eb1c27fe0b)
 * [AR场景中关于3D模型的触碰检测](https://www.cnblogs.com/shuizhuqing/p/7158016.html)
 
-#### 国外教程（都是基础教程）
+#### 国外教程
 
 * [ARKit introduction](https://www.whitesmith.co/blog/arkit-introduction/)
 * [Building an AR game with ARKit and Spritekit](https://blog.pusher.com/building-ar-game-arkit-spritekit/)
@@ -66,6 +66,7 @@
 * [Building an AR app with ARKit and Scenekit](https://blog.pusher.com/building-an-ar-app-with-arkit-and-scenekit/)
 * [Augmented Reality With ARKit: Detecting Planes](https://digitalleaves.com/blog/2017/10/augmented-reality-with-arkit-detecting-planes/)
 * [Place Objects In Augmented Reality Via ARKit](https://digitalleaves.com/blog/2017/11/augmented-reality-arkit-placing-objects/)
+
 
 # 开源代码
 
@@ -125,7 +126,7 @@
 * [ARGitHubCommits](https://github.com/songkuixi/ARGitHubCommits) - Show your GitHub commit records in 3D with ARKit and SceneKit.
 * [ARKit-Cardboard-VR](https://github.com/andrewnakas/ARKit-Cardboard-VR) - ARkit + GVR to make VR and Mixed Reality 6dof AR for iphone
 
-# ARKit应用
+#应用
 
 * [ARPiano](https://itunes.apple.com/us/app/arpiano/id1287013036?l=zh&ls=1&mt=8) - A augmented reality fine-tuned and professional piano app with 61 keys or 88 keys, which you can place every plane to play.
 * [Sky Guide AR](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - A star app has never been more beautiful and easy to use.
@@ -157,7 +158,7 @@
 * [AR Snake Simulator](https://itunes.apple.com/us/app/ar-snake-simulator/id1305140729?mt=8) - AR game that is worth your attention! Can you become the longest player? What are you waiting for? Develop your skills, try to survive and eat more diamonds!
 * [Floto](https://itunes.apple.com/us/app/flotogram/id1300137329) - Flotogram is a fully featured AR Photography and Video app that places your photos directly into an Augmented Reality scene around you.
 
-# AR小视频
+# 趣味视频
 
 * [AR汽车](https://www.bilibili.com/video/av14274643/)
 * [AR画板](https://www.bilibili.com/video/av13899484/)
@@ -173,6 +174,4 @@
 * [Made With ARKit](http://www.madewitharkit.com)
 * [React Native Binding](https://github.com/HippoAR/react-native-arkit) - React Native binding for ARKit
 
-# 分享贡献
-
-Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request. See `contribution.md` for guidelines.
+### [回到顶部](#目录)
