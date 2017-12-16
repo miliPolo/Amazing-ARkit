@@ -1,6 +1,5 @@
 # Amazing ARKit
-# Amazing ARKit
-![Banner](awesome-arkit/banner.png)
+![Banner](Amazing-ARkit/banner.png)
 对AR增强现实蛮感兴趣，所以自学了一段时间，空闲时间整理了自己在学习ARkit的过程中学习的一些资料以及开发者做的有趣的AR视频，谢谢他们无私的分享。由于本人水平有限，欢迎大佬们补充和指正。
 # 目录
 - [教程文章](#教程文章)
@@ -12,14 +11,14 @@
 - - -
 # 教程文章
 
-####简介
+#### 简介
 
 * [直击苹果 ARKit 技术](http://www.jianshu.com/p/7faa4a3af589)
 * [由首份SLAM技术问卷，看SLAM的现状和趋势](http://www.jianshu.com/p/dea5be0c5c81)
 * [苹果官方给ARKit开发者的22条建议，你家AR应用做到没？](http://www.jianshu.com/p/24770e6e7ac5)
 * [到底有多强？苹果的增强现实框架：ARKit](http://www.jianshu.com/p/d7dcf46f3705)
 
-####入门
+#### 入门
 
 * [ARKit入门到精通：工作原理及流程介绍](http://www.jianshu.com/p/0492c7122d2f)
 * [ARKit入门到精通：让飞机绕着你飞起来](http://www.jianshu.com/p/5f9aafbf3cf0)
@@ -28,7 +27,7 @@
 * [ARKit从零到一：平面检测与视觉效果](https://www.jianshu.com/p/7abbb3efdbcb)
 * [ARKit从零到一：放置几何体并应用物理学](http://www.jianshu.com/p/641af448830c)
 
-####进阶
+#### 进阶
 
 * [ARKit文档翻译之ARKit简介](http://www.jianshu.com/p/387225a1aa60)
 * [ARKit如何将太阳系装进iPhone（一）](http://www.jianshu.com/p/82d7496263c7)
@@ -173,3 +172,7 @@
 * [Official ARKit Documentation](https://developer.apple.com/documentation/arkit)
 * [Made With ARKit](http://www.madewitharkit.com)
 * [React Native Binding](https://github.com/HippoAR/react-native-arkit) - React Native binding for ARKit
+
+# 分享贡献
+
+Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request. See `contribution.md` for guidelines.
