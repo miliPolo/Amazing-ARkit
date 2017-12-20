@@ -1,6 +1,6 @@
 # Amazing ARKit
 ![Banner](banner.png)
-####ARKit相关的资料和工程文件
+#### ARKit相关的资料和工程文件
 # 目录
 - [教程文章](#教程文章)
 - [开源代码](#开源代码)
