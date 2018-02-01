@@ -48,6 +48,9 @@
 * [AR场景中关于3D模型的触碰检测](https://www.cnblogs.com/shuizhuqing/p/7158016.html)
 * [[MetalKit]Using ARKit with Metal使用ARKit与Metal](http://www.jianshu.com/p/853db805ddee)
 * [四元数和旋转，涉及到3D模型的动画](http://blog.csdn.net/candycat1992/article/details/41254799)
+* [ARKit制作红包雨效果](https://www.jianshu.com/p/4c20612206da)
+* [iOS ARKit录屏功能的实现](https://www.jianshu.com/p/903fd58ae89a)
+* [SceneKit动态加载.dae模型](https://www.jianshu.com/p/429c91deabcc)
 
 #### ARKit+Unity
 
