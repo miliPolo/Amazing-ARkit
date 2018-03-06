@@ -25,6 +25,7 @@
 * [ARKit从零到一：教你编写 AR 立方体](http://www.jianshu.com/p/396a0d1c16f9)
 * [ARKit从零到一：平面检测与视觉效果](https://www.jianshu.com/p/7abbb3efdbcb)
 * [ARKit从零到一：放置几何体并应用物理学](http://www.jianshu.com/p/641af448830c)
+* [SceneKit框架之SCNCamera](https://www.jianshu.com/p/989a7f8ab18f)
 
 #### 进阶
 
@@ -51,6 +52,8 @@
 * [ARKit制作红包雨效果](https://www.jianshu.com/p/4c20612206da)
 * [iOS ARKit录屏功能的实现](https://www.jianshu.com/p/903fd58ae89a)
 * [SceneKit动态加载.dae模型](https://www.jianshu.com/p/429c91deabcc)
+* [SceneKit绘制模型与骨骼动画的实现](https://www.jianshu.com/p/b0a05bd87f30)
+* [iOS使用assimpKit加载FBX模型步骤详解](https://www.jianshu.com/p/e5b68366ea0b)
 
 #### ARKit+Unity
 
@@ -119,6 +122,7 @@
 * [Findme](https://github.com/mmoaay/Findme) – 基于ARkit的找人demo
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) – 笑脸解锁demo
 * [ARKit-Cardboard-VR](https://github.com/andrewnakas/ARKit-Cardboard-VR) - cardboardVR眼镜使用AR应用
+* [Face-changing](https://github.com/wzqwzq666/Face-changing) - 变脸
 
 # 应用
 
