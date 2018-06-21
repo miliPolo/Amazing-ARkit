@@ -16,7 +16,7 @@
 * [由首份SLAM技术问卷，看SLAM的现状和趋势](http://www.jianshu.com/p/dea5be0c5c81)
 * [苹果官方给ARKit开发者的22条建议，你家AR应用做到没？](http://www.jianshu.com/p/24770e6e7ac5)
 * [到底有多强？苹果的增强现实框架：ARKit](http://www.jianshu.com/p/d7dcf46f3705)
-
+* [ARKit2.0究竟给我们带来了什么](https://www.jianshu.com/p/0dafee74ebb5)
 #### 入门
 * [ARKit官方文档](https://developer.apple.com/documentation/arkit)
 * [ARKit入门到精通：工作原理及流程介绍](http://www.jianshu.com/p/0492c7122d2f)
@@ -26,6 +26,8 @@
 * [ARKit从零到一：平面检测与视觉效果](https://www.jianshu.com/p/7abbb3efdbcb)
 * [ARKit从零到一：放置几何体并应用物理学](http://www.jianshu.com/p/641af448830c)
 * [SceneKit框架之SCNCamera](https://www.jianshu.com/p/989a7f8ab18f)
+* [ARKit2.0 新功能文档摘要](https://www.jianshu.com/p/5806eed8db7f)
+* [ARKit 检测图片（类似支付宝扫福字）](https://www.jianshu.com/p/4f07d1e46902)
 
 #### 进阶
 
@@ -123,7 +125,8 @@
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) – 笑脸解锁demo
 * [ARKit-Cardboard-VR](https://github.com/andrewnakas/ARKit-Cardboard-VR) - cardboardVR眼镜使用AR应用
 * [Face-changing](https://github.com/wzqwzq666/Face-changing) - 变脸
-
+* [WallStreaming](https://github.com/Bersaelor/WallStreaming) - 识别图片，将视频流加载图片的位置上
+* [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR的像素射击游戏
 # 应用
 
 * [AR钢琴](https://itunes.apple.com/us/app/arpiano/id1287013036?l=zh&ls=1&mt=8) - 一款增强现实的微调和专业的钢琴应用，有61个键或88个键，你可以把每架飞机都放在一起玩。
