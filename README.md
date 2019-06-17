@@ -127,7 +127,9 @@
 * [Face-changing](https://github.com/wzqwzq666/Face-changing) - 变脸
 * [WallStreaming](https://github.com/Bersaelor/WallStreaming) - 识别图片，将视频流加载图片的位置上
 * [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR的像素射击游戏
+* [MarvelAR](https://github.com/hadiidbouk/MarvelAR) - MarvelAR is an iOS application that present Marvel Heroes 3D Models Using ARKit.
 # 应用
+
 
 * [AR钢琴](https://itunes.apple.com/us/app/arpiano/id1287013036?l=zh&ls=1&mt=8) - 一款增强现实的微调和专业的钢琴应用，有61个键或88个键，你可以把每架飞机都放在一起玩。
 * [AR星空指南](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - AR星空
